@@ -129,10 +129,17 @@ Model performance comparison dashboard
 Deployment on cloud platforms
 
 👤 Author
-Avikal Bhatt
-GitHub: https://github.com/avikal286
+1.Avikal Bhatt
 
-LinkedIn: https://www.linkedin.com/in/avikal-bhatt-418902372
+  GitHub: https://github.com/avikal286
+
+  LinkedIn: https://www.linkedin.com/in/avikal-bhatt-418902372
+
+2. Lakshya Bhatt
+
+   GitHub: https://github.com/LakshyaB-1
+
+   LinkedIn: https://www.linkedin.com/in/lakshya-bhatt-221252220
 
 📜 License
 This project is for educational and research purposes.
